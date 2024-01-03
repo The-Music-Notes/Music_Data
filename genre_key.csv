@@ -1,0 +1,970 @@
+Genre,Master Genre
+"['canadian pop', 'canadian contemporary r&b', 'pop']",Pop
+"['pop', 'pop dance', 'tropical house', 'edm', 'electropop', 'dance pop']",Pop
+"['pop', 'electronic trap', 'dance pop', 'edm', 'pop dance', 'pop rap']",Pop
+"['pop', 'uk dance', 'dance pop', 'uk funky', 'tropical house', 'pop dance', 'post-teen pop', 'edm']",Pop
+"['toronto rap', 'canadian pop', 'canadian hip hop', 'rap', 'pop rap', 'hip hop']",Hip-Hop
+"['pop', 'post-teen pop', 'dance pop']",Pop
+"['pop', 'pop rock']",Pop
+"['rap', 'mississippi hip hop', 'melodic rap', 'trap', 'pop rap', 'southern hip hop', 'hip hop']",Rap
+"['colombian pop', 'dance pop', 'latin pop', 'pop', 'latin']",Pop
+"['pop', 'post-teen pop', 'uk pop', 'dance pop']",Pop
+"['pop', 'uk pop', 'talent show', 'post-teen pop']",Pop
+"['rap', 'atl hip hop', 'trap', 'pop rap']",Rap
+"['moombahton', 'pop', 'edm', 'dance pop', 'pop dance', 'pop rap', 'electro house']",Pop
+"['dutch edm', 'pop dance', 'edm', 'tropical house', 'pop', 'progressive house', 'dance pop']",EDM
+"['aussietronica', 'tropical house', 'pop dance']",Pop
+"['dance pop', 'pop']",Pop
+"['pop', 'canadian pop', 'viral pop', 'post-teen pop', 'dance pop']",Pop
+"['edm', 'pop dance', 'electro house', 'tropical house', 'dance pop', 'pop']",Pop
+"['uk dance', 'pop', 'dance pop', 'edm', 'house', 'progressive house', 'pop dance', 'electro house']",Pop
+"['ohio hip hop', 'pop rap']",Rap
+"['modern rock', 'rock']",Rock
+"['pop', 'australian dance', 'australian pop', 'dance pop']",Pop
+"['boy band', 'latin pop', 'reggaeton', 'latin']",Pop
+"['virginia hip hop', 'alternative r&b', 'underground hip hop', 'trap', 'pop rap', 'rap']",Hip-Hop
+"['pop rap', 'dance pop', 'pop']",Pop
+"['reggaeton colombiano', 'reggaeton', 'trap latino', 'latin']",Latin
+"['pop', 'post-teen pop', 'dance pop', 'girl group', 'talent show']",Pop
+"['pop', 'post-teen pop', 'canadian pop', 'canadian contemporary r&b', 'dance pop', 'electropop']",Pop
+"['latin pop', 'puerto rican pop', 'mexican pop', 'latin', 'dance pop']",Pop
+"['pop', 'post-teen pop', 'boy band', 'dance pop']",Pop
+"['tropical house', 'uk dance', 'pop dance', 'pop', 'dance pop', 'edm']",Pop
+"['pop', 'viral pop', 'post-teen pop', 'dance pop']",Pop
+"['portland hip hop', 'rap', 'pop rap', 'hip hop', 'underground hip hop']",Hip-Hop
+"['pop rap', 'hyphy', 'dance pop', 'southern hip hop', 'trap', 'rap']",Pop
+"['pop soul', 'neo soul', 'pop', 'r&b', 'urban contemporary']",R&B & Soul
+['eurodance'],Regional
+"['pop dance', 'electro house']",Pop
+"['barbadian pop', 'pop', 'dance pop', 'post-teen pop', 'urban contemporary']",Pop
+"['latin hip hop', 'reggaeton', 'latin', 'trap latino', 'reggaeton flow']",Hip-Hop
+"['pop', 'scandipop', 'dance pop', 'swedish electropop', 'post-teen pop', 'tropical house', 'swedish pop', 'pop dance', 'electropop', 'edm']",Pop
+"['pop nacional', 'slap house', 'electro house']",Pop
+"['german dance', 'tropical house', 'deep euro house', 'pop dance', 'deep house', 'edm', 'pop', 'dance pop']",Pop
+"['rap', 'pop rap', 'detroit hip hop', 'trap', 'southern hip hop', 'hip hop']",Rap
+"['canadian pop', 'post-teen pop', 'pop']",Pop
+"['pop', 'post-teen pop', 'dance pop', 'pop rock']",Pop
+"['colombian pop', 'champeta', 'latin', 'vallenato', 'latin pop', 'tropical']",Pop
+"['viral trap', 'trap', 'rap', 'pop rap']",Rap
+['scandipop'],Pop
+"['north carolina hip hop', 'conscious hip hop', 'rap', 'hip hop']",Hip-Hop
+"['reggaeton', 'latin', 'latin hip hop', 'trap latino']",Hip-Hop
+"['reggaeton colombiano', 'colombian pop', 'reggaeton', 'latin']",Latin
+"['atl hip hop', 'rap', 'trap', 'hip hop']",Hip-Hop
+"['pop soul', 'british soul', 'uk pop', 'pop']",R&B & Soul
+"['trap', 'pop rap', 'chicago bop', 'nyc rap', 'rap', 'viral trap']",Rap
+"['mexican pop', 'latin pop', 'dance pop', 'latin', 'pop']",Pop
+"['permanent wave', 'pop']",Pop
+"['indie cafe pop', 'pop', 'alt z', 'social media pop', 'sad rap', 'electropop', 'pop rap']",Pop
+"['rap', 'pop rap', 'new orleans rap', 'trap', 'hip hop']",Rap
+"['tropical house', 'pop dance', 'danish electronic', 'edm', 'dance pop', 'pop edm', 'deep house', 'pop', 'electro house']",Pop
+['san diego rap'],Rap
+"['funk carioca', 'funk paulista', 'funk ostentacao']",Regional
+"['swedish tropical house', 'tropical house', 'pop dance', 'pop edm', 'deep tropical house', 'edm', 'electro house', 'pop', 'dance pop']",Pop
+['neo soul'],R&B & Soul
+"['scandipop', 'pop', 'danish pop']",Pop
+"['tropical house', 'new french touch', 'pop dance']",Pop
+"['nyc rap', 'lgbtq+ hip hop', 'rap', 'trap', 'pop rap']",Rap
+"['shiver pop', 'downtempo', 'pop', 'post-teen pop']",Pop
+"['pop', 'post-teen pop', 'alt z', 'dance pop']",Pop
+"['indie pop rap', 'pop rap']",Pop
+"['rap', 'conscious hip hop', 'chicago rap', 'pop rap', 'hip hop']",Hip-Hop
+"['talent show', 'pop', 'girl group', 'post-teen pop', 'uk pop', 'dance pop']",Pop
+"['puerto rican pop', 'trap latino', 'reggaeton', 'latin']",Latin
+"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap', 'hip hop']",Pop
+"['la pop', 'indie poptimism', 'electropop', 'tropical house', 'pop edm', 'pop dance']",Pop
+"['soul', 'r&b', 'pop']",R&B & Soul
+"['cubaton', 'reggaeton']",Regional
+"['reggaeton colombiano', 'reggaeton', 'latin']",Regional
+['tamaulipas rap'],Rap
+"['new french touch', 'tropical house']",Regional
+"['pop dance', 'tropical house', 'pop', 'edm', 'dance pop', 'electropop', 'post-teen pop', 'electro house', 'pop edm']",Pop
+"['electropop', 'pop', 'tropical house', 'dance pop', 'art pop', 'danish pop', 'indie poptimism']",Pop
+['pop rap'],Rap
+"['neo mellow', 'pop rock', 'pop', 'post-teen pop', 'modern rock', 'dance pop']",Pop
+"['latin', 'reggaeton', 'latin hip hop', 'trap latino']",Latin
+"['glam rock', 'classic rock', 'rock']",Rock
+"['rap', 'melodic rap', 'trap', 'atl hip hop', 'atl trap', 'pop rap', 'hip hop', 'gangster rap']",Rap
+"['melodic rap', 'philly rap', 'rap', 'trap']",Rap
+['chicano rap'],Rap
+"['uk pop', 'pop']",Pop
+"['modern rock', 'indietronica', 'rock', 'modern alternative rock', 'pop']",Rock
+"['rap', 'atl hip hop', 'pop rap', 'hip hop']",Rap
+"['pop dance', 'tropical house', 'edm', 'dance pop', 'pop', 'electro house']",Pop
+"['australian electropop', 'downtempo', 'australian dance', 'australian indie', 'edm']",Regional
+"['pop', 'dance pop', 'post-teen pop', 'electropop']",Pop
+"['big room', 'dance pop', 'edm', 'pop dance', 'pop']",Pop
+"['seattle hip hop', 'pop rap']",Hip-Hop
+"['reggaeton colombiano', 'colombian pop', 'reggaeton', 'trap latino', 'latin', 'latin pop']",Pop
+"['Sorry', ""that one doesn't seem to be on any of these maps yet.""]",Regional
+"['motown', 'soul']",R&B & Soul
+"['modern rock', 'pop rap']",Rock
+"['indie cafe pop', 'pop', 'viral pop', 'neo mellow']",Pop
+"['pop rap', 'rap', 'social media pop']",Rap
+"['progressive electro house', 'swedish pop', 'edm', 'pop dance']",Pop
+"['motown', 'soul', 'northern soul', 'quiet storm', 'indie r&b', 'classic soul', 'funk']",R&B & Soul
+"['electropop', 'indie poptimism', 'alt z', 'pop', 'dance pop']",Pop
+"['rap', 'atl hip hop', 'trap', 'pop rap', 'southern hip hop']",Rap
+['dancehall'],Regional
+"['mexican pop', 'latin pop', 'latin', 'dance pop']",Pop
+"['miami hip hop', 'dance pop', 'pop rap', 'pop']",Pop
+['pop edm'],Pop
+"['dance pop', 'pop', 'neo soul']",Pop
+"['cubaton', 'latin', 'latin hip hop', 'latin pop']",Hip-Hop
+"['slap house', 'rap']",Rap
+"['electronic trap', 'edm', 'future bass', 'vapor twitch', 'pop dance', 'pop edm', 'electropop', 'electro house']",Pop
+"['swedish tropical house', 'deep tropical house', 'tropical house']",Regional
+"['pop soul', 'australian pop']",Pop
+"['pop', 'uk pop', 'dance pop', 'post-teen pop', 'tropical house', 'pop dance']",Pop
+"['pop rap', 'pop', 'r&b', 'electropop', 'rap']",Pop
+"['dance pop', 'dancehall', 'pop rap', 'pop']",Pop
+"['tropical house', 'pop dance', 'pop', 'edm']",Pop
+"['brostep', 'edm', 'electro', 'complextro', 'pop dance']",Pop
+"['pop', 'swedish electropop', 'electropop', 'dance pop', 'metropopolis', 'swedish synthpop', 'post-teen pop', 'swedish pop', 'pop rap']",Pop
+['tropical house'],Regional
+"['detroit hip hop', 'rap', 'hip hop']",Hip-Hop
+"['indietronica', 'escape room', 'new rave', 'dance pop']",Pop
+"['pop', 'neo mellow', 'pop rock', 'modern rock']",Pop
+"['chicago rap', 'rap']",Rap
+"['pop dance', 'tropical house', 'edm', 'pop edm', 'house', 'electro house', 'deep groove house', 'dance pop', 'progressive house']",Pop
+"['dfw rap', 'melodic rap', 'rap']",Rap
+"['pop r&b', 'trap soul', 'post-teen pop', 'r&b', 'chill r&b', 'alternative r&b', 'urban contemporary', 'afroswing', 'dance pop', 'hip pop']",R&B & Soul
+"['motown', 'soul', 'quiet storm', 'indie r&b', 'funk']",R&B & Soul
+"['rap', 'hip hop', 'east coast hip hop', 'pop rap']",Hip-Hop
+"['uk pop', 'pop', 'neo mellow', 'indie cafe pop', 'tropical house', 'pop rock']",Pop
+"['pop dance', 'edm', 'canadian electronic', 'slap house', 'electro house', 'tropical house', 'pop edm', 'dance pop']",Pop
+['german pop'],Pop
+"['folk-pop', 'neo mellow', 'pop rock', 'pop']",Pop
+"['pop', 'uk pop', 'post-teen pop', 'dance pop']",Pop
+"['channel islands indie', 'vapor soul']",R&B & Soul
+"['dance rock', 'permanent wave', 'modern rock', 'rock']",Rock
+"['kentucky hip hop', 'rap', 'pop rap', 'r&b', 'trap', 'pop']",Hip-Hop
+"['irish singer-songwriter', 'pop', 'modern rock']",Rock
+['australian pop'],Pop
+"['indie electropop', 'nyc pop', 'vapor pop', 'indie poptimism', 'electropop', 'vapor soul', 'metropopolis', 'alt z', 'brooklyn indie', 'indie pop']",Pop
+"['pop rap', 'dance pop', 'pop', 'r&b', 'rap']",Pop
+"['tropical house', 'edm', 'electropop', 'pop', 'pop dance', 'indie poptimism', 'dance pop']",Pop
+"['downtempo', 'indietronica', 'dream pop']",Pop
+"['pop rap', 'rap', 'southern hip hop', 'trap', 'hip hop', 'dance pop']",Rap
+"['nottingham indie', 'metropopolis']",EDM
+"['uk dance', 'uk funky', 'tropical house', 'pop dance', 'dance pop', 'house', 'pop', 'edm']",Pop
+"['puerto rican pop', 'latin', 'reggaeton', 'latin hip hop', 'trap latino']",Latin
+"['pop dance', 'uk dance', 'tropical house', 'dance pop', 'pop', 'house', 'edm', 'pop rap', 'post-teen pop', 'electro house']",Pop
+"['indie poptimism', 'tropical house', 'electropop', 'pop dance', 'pop', 'pop edm']",Pop
+"['pop', 'etherpop', 'post-teen pop', 'electropop', 'dance pop', 'indie poptimism']",Pop
+"['slap house', 'dutch edm', 'brostep', 'big room', 'pop dance', 'edm', 'tropical house', 'trance', 'house', 'dance pop']",EDM
+"['puerto rican pop', 'latin', 'latin pop']",Latin
+"['post-teen pop', 'social media pop', 'alt z', 'pop', 'dance pop']",Pop
+"['pop', 'indie poptimism', 'electropop', 'alt z', 'post-teen pop', 'pop edm', 'dance pop', 'pop dance', 'tropical house', 'indie cafe pop']",Pop
+"['pop', 'post-teen pop', 'electropop', 'dance pop']",Pop
+"['soundtrack', 'hollywood', 'adult standards', 'show tunes']",Hollywood
+['hollywood'],Hollywood
+"['pop', 'post-teen pop', 'alt z', 'dance pop', 'electropop']",Pop
+"['melodic rap', 'rap', 'trap', 'pop rap', 'vapor trap', 'r&b']",Rap
+"['rap', 'trap', 'atl hip hop', 'southern hip hop', 'pop rap', 'dirty south rap', 'gangster rap', 'hip hop']",Rap
+"['madchester', 'permanent wave', 'beatlesque', 'britpop', 'rock']",Rock
+"['neo mellow', 'singer-songwriter', 'pop rock', 'pop']",Pop
+"['vapor trap', 'meme rap', 'underground hip hop', 'trap']",Rap
+"['modern rock', 'pop', 'rock']",Pop
+"['trap boricua', 'trap latino', 'reggaeton', 'reggaeton flow', 'latin']",Latin
+"['toronto rap', 'rap', 'r&b', 'pop rap', 'pop', 'trap', 'urban contemporary']",Rap
+"['neo mellow', 'pop rock', 'pop']",Pop
+"['reggaeton', 'latin hip hop', 'trap latino', 'latin', 'reggaeton flow', 'perreo']",Latin
+"['dance pop', 'pop', 'post-teen pop', 'r&b']",Pop
+"['hollywood', 'movie tunes']",Hollywood
+"['melodic rap', 'rap', 'miami hip hop', 'florida rap', 'trap', 'southern hip hop', 'hip hop']",Rap
+['pop'],Pop
+"['progressive electro house', 'big room', 'pop edm', 'electro house', 'pop dance', 'edm', 'funky tech house', 'progressive house', 'german techno']",EDM
+"['contemporary country', 'country pop']",Country
+"['pop dance', 'edm', 'progressive electro house', 'tropical house', 'electro house', 'dance pop', 'pop']",EDM
+"['post-teen pop', 'dance pop']",Pop
+"['icelandic indie', 'icelandic rock', 'modern alternative rock', 'modern rock']",Rock
+"['album rock', 'rock', 'soft rock', 'classic rock', 'hard rock', 'mellow gold']",Rock
+"['pop dance', 'edm', 'tropical house', 'dance pop', 'electro house', 'pop']",Pop
+"['post-teen pop', 'pop', 'dance pop', 'viral pop']",Pop
+"['norwegian pop', 'dance pop', 'pop']",Pop
+"['uk pop', 'pop', 'dance pop']",Pop
+"['miami hip hop', 'emo rap']",Hip-Hop
+['electro house'],EDM
+"['pop', 'post-teen pop', 'viral pop', 'alt z', 'dance pop', 'electropop']",Pop
+"['k-pop boy group', 'k-pop']",Pop
+['electropop'],Pop
+"['pop', 'uk pop', 'dance pop', 'indietronica', 'metropopolis', 'post-teen pop', 'electropop', 'edm']",Pop
+['swedish pop'],Pop
+"['viral pop', 'pop', 'post-teen pop', 'neo mellow', 'pop rock', 'dance pop']",Pop
+"['pop rock', 'permanent wave', 'neo mellow', 'post-grunge', 'alternative rock']",Pop
+"['pop rock', 'permanent wave', 'neo mellow', 'irish rock', 'modern rock', 'rock']",Pop
+"['eau claire indie', 'melancholia', 'indie folk']",Folk
+"['pop rap', 'rap', 'miami hip hop', 'southern hip hop', 'trap', 'hip hop']",Pop
+"['rap metal', 'post-grunge', 'nu metal', 'alternative metal']",Rap
+"['melodic rap', 'canadian trap', 'rap', 'toronto rap', 'trap', 'canadian hip hop', 'pop rap', 'hip hop']",Rap
+"['pop venezolano', 'reggaeton', 'trap latino', 'latin', 'latin pop']",Latin
+"['art pop', 'pop']",Pop
+"['australian dance', 'alternative dance', 'indietronica', 'filter house', 'nu disco', 'new rave']",EDM
+"['pop', 'dance pop', 'edm', 'pop dance', 'german techno', 'complextro', 'post-teen pop', 'tropical house', 'electro house', 'electropop']",Pop
+"['dance pop', 'pop', 'post-teen pop', 'pop rap']",Pop
+"['grime', 'uk hip hop']",Hip-Hop
+"['funk pop', 'funk carioca', 'funk ostentacao']",Pop
+"['reggaeton colombiano', 'colombian pop', 'electro latino', 'champeta', 'latin', 'latin pop', 'reggaeton', 'trap latino']",Latin
+"['pop', 'post-teen pop', 'viral pop', 'dance pop', 'electropop', 'pop rap']",Pop
+"['latin arena pop', 'latin pop', 'mexican pop', 'latin', 'ranchera', 'mariachi', 'regional mexican']",Latin
+"['hawaiian hip hop', 'rap', 'pop rap', 'pop']",Hip-Hop
+"['pop', 'nz pop', 'metropopolis', 'post-teen pop', 'electropop', 'art pop', 'dance pop']",Pop
+"['pop dance', 'tropical house', 'edm', 'pop', 'dance pop', 'pop edm', 'electro house']",EDM
+"['queens hip hop', 'pop', 'dance pop', 'pop rap', 'hip pop', 'post-teen pop']",Hip-Hop
+['norwegian pop'],Pop
+"['pop', 'uk pop', 'alt z', 'norwegian pop', 'indie cafe pop', 'post-teen pop', 'electropop', 'dance pop', 'tropical house']",Pop
+"['miami hip hop', 'dance pop', 'pop', 'pop rap', 'latin']",Pop
+"['lgbtq+ hip hop', 'neo soul', 'alternative r&b', 'pop', 'hip hop']",Hip-Hop
+"['swedish pop', 'eurovision', 'europop']",Pop
+"['swedish idol pop', 'eurovision', 'swedish pop', 'europop']",Pop
+"['anime', 'j-poprock', 'otacore']",Pop
+"['rockabilly', 'rock-and-roll', 'classic rock', 'blues rock', 'soul', 'rock']",Rock
+['dutch hip hop'],Hip-Hop
+"['rap', 'conscious hip hop', 'west coast rap', 'hip hop']",Rap
+['alternative hip hop'],Hip-Hop
+"['dance pop', 'pop', 'post-teen pop', 'australian hip hop', 'pop rap', 'hip pop']",Pop
+"['latin', 'bachata', 'latin hip hop', 'latin pop']",Latin
+"['conscious hip hop', 'dmv rap', 'pop rap', 'rap', 'hip hop']",Hip-Hop
+"['modern rock', 'indie rock']",Rock
+"['nigerian hip hop', 'azonto', 'afro dancehall', 'nigerian pop', 'afropop']",Pop
+"['alt z', 'social media pop', 'pop', 'post-teen pop']",Pop
+"['pop', 'post-teen pop']",Pop
+"['rap', 'conscious hip hop', 'hip hop', 'underground hip hop']",Rap
+"['trap latino', 'reggaeton', 'reggaeton flow', 'latin']",Latin
+"['pop rap', 'pop', 'electropop', 'modern rock']",Rap
+"['rap', 'trap', 'pop rap', 'southern hip hop', 'hip hop', 'gangster rap']",Rap
+"['stomp and holler', 'indie folk', 'indie pop']",Pop
+"['melodic rap', 'rap', 'trap', 'pop rap']",Rap
+"['melodic rap', 'viral rap', 'rap', 'atl hip hop', 'trap', 'hip hop', 'underground hip hop']",Rap
+"['candy pop', 'pixie', 'pop emo', 'pop punk', 'emo']",Pop
+"['plugg', 'atl hip hop', 'rap', 'trap']",Hip-Hop
+"['pop rock', 'piano rock', 'pop', 'dance pop', 'post-teen pop']",Pop
+"['pop punk', 'emo', 'modern rock']",Pop
+"['rock independant francais', 'alternative dance', 'indie rock', 'new rave', 'modern rock', 'indie pop']",Rock
+"['metropopolis', 'art pop', 'indie pop', 'dance pop', 'pop rock']",Pop
+"['pop venezolano', 'pop reggaeton', 'pop peruano', 'latin', 'latin pop', 'reggaeton', 'dominican pop', 'trap latino']",Pop
+"['beatlesque', 'glam rock', 'bow pop', 'art rock', 'classic rock', 'album rock', 'soft rock', 'rock', 'mellow gold', 'symphonic rock']",Rock
+"['yacht rock', 'classic rock', 'mellow gold', 'soft rock', 'album rock', 'rock']",Rock
+"['tropical house', 'german dance', 'pop dance', 'edm', 'dance pop', 'pop edm', 'pop', 'electro house', 'pop rap']",EDM
+"['tropical house', 'pop dance', 'new french touch', 'edm']",EDM
+['portuguese pop'],Pop
+"['moldovan pop', 'eurovision']",Pop
+['eurovision'],Regional
+"['grunge', 'rock', 'alternative rock', 'alternative metal', 'nu metal', 'hard rock', 'blues rock', 'modern rock']",Rock
+"['supergroup', 'rock', 'permanent wave', 'alternative metal', 'post-grunge', 'nu metal', 'alternative rock']",Rock
+"['rock', 'alternative rock', 'alternative metal']",Rock
+"['pop', 'post-teen pop', 'dance pop', 'electropop']",Pop
+"['permanent wave', 'rock', 'modern rock']",Rock
+['canadian pop'],Pop
+"['afroswing', 'uk hip hop', 'grime']",Hip-Hop
+"['dance pop', 'pop', 'uk pop', 'post-teen pop', 'australian pop', 'tropical house', 'edm', 'electropop', 'pop rap']",EDM
+"['pop dance', 'tropical house', 'edm', 'disco house', 'house', 'filter house', 'dance pop', 'electro house', 'vocal house']",EDM
+"['dutch hip hop', 'dutch rap pop', 'dutch pop']",Hip-Hop
+"['rap', 'trap', 'atl hip hop', 'pop rap', 'southern hip hop', 'hip hop', 'gangster rap']",Rap
+"['funk pop', 'pop nacional', 'pagode baiano', 'funk carioca']",Pop
+"['reggaeton colombiano', 'colombian pop', 'reggaeton', 'trap latino', 'latin']",Latin
+"['pop', 'r&b', 'pop rap']",Pop
+"['tropical house', 'pop dance', 'dance pop', 'pop', 'edm']",EDM
+"['hands up', 'italo dance', 'eurodance', 'dance pop', 'pop dance']",Pop
+"['queens hip hop', 'hip hop', 'hardcore hip hop', 'east coast hip hop', 'gangster rap', 'rap']",Hip-Hop
+"['swedish pop', 'europop', 'eurovision', 'swedish idol pop', 'classic swedish pop', 'danspunk', 'norwegian pop', 'swedish pop rap']",Pop
+"['rap', 'trap', 'pop rap', 'southern hip hop', 'hip hop']",Rap
+"['modern rock', 'modern alternative rock', 'indie poptimism', 'stomp and holler', 'pop rock']",Rock
+"['rap', 'hip hop']",Rap
+"['modern country rock', 'contemporary country', 'country road', 'country']",Country
+"['rock', 'classic rock', 'southern rock', 'album rock', 'hard rock', 'blues rock', 'country rock', 'mellow gold']",Rock
+"['dance pop', 'pop', 'post-teen pop', 'electropop']",Pop
+"['dance pop', 'pop', 'urban contemporary', 'pop rap', 'post-teen pop']",Pop
+['urbano espanol'],Latin
+"['la pop', 'pop', 'post-teen pop']",Pop
+"['modern rock', 'modern alternative rock', 'indie rock', 'rock']",Rock
+"['neo mellow', 'pop rock', 'pop', 'celtic rock', 'viral pop', 'post-teen pop', 'dance pop']",Pop
+"['folk-pop', 'pop rock', 'modern rock', 'pop']",Pop
+"['hamburg hip hop', 'german hip hop']",Hip-Hop
+"['k-pop', 'k-pop boy group']",Pop
+,
+"['edm', 'pop dance', 'pop edm', 'electropowerpop', 'tropical house', 'dance pop', 'electro house', 'electropop', 'pop', 'indie poptimism']",EDM
+"['bachata', 'latin']",Latin
+"['trap', 'southern hip hop', 'pop rap', 'tennessee hip hop', 'rap', 'dirty south rap', 'gangster rap', 'memphis hip hop', 'hip hop']",Hip-Hop
+"['rap latina', 'latin viral pop', 'reggaeton', 'latin pop', 'trap latino', 'pop', 'dance pop', 'latin']",Latin
+"['mexican pop', 'latin pop']",Pop
+"['electropop', 'dance pop', 'uk pop', 'metropopolis', 'pop', 'candy pop', 'hyperpop', 'art pop', 'post-teen pop']",Pop
+['belgian edm'],EDM
+"['pop rap', 'pop', 'rap', 'dance pop']",Pop
+"['latin viral pop', 'latin arena pop', 'latin pop', 'reggaeton', 'spanish pop', 'latin']",Pop
+"['funk pop', 'pop nacional', 'pop lgbtq+ brasileira', 'funk carioca', 'dance pop', 'pop']",Pop
+"['melodic rap', 'rap', 'atl hip hop', 'r&b', 'trap', 'alternative r&b', 'pop rap', 'hip hop']",Rap
+"['reggaeton colombiano', 'trap latino', 'reggaeton', 'latin']",Latin
+"['edm', 'pop dance', 'pop', 'dance pop']",EDM
+"['pop', 'dance pop', 'post-teen pop']",Pop
+"['brostep', 'pop', 'progressive electro house', 'pop dance', 'edm']",Pop
+"['pittsburgh rap', 'rap', 'pop rap', 'southern hip hop', 'trap', 'hip hop', 'dance pop']",Rap
+['reggaeton flow'],Regional
+"['soft rock', 'new wave pop', 'europop']",Rock
+"['post-grunge', 'modern rock', 'pop punk', 'rock']",Rock
+"['permanent wave', 'post-grunge', 'rock', 'alternative rock', 'modern rock', 'alternative metal']",Rock
+"['r&b', 'pop', 'urban contemporary', 'dance pop']",R&B & Soul
+"['rap', 'trap', 'hip hop', 'vapor trap', 'southern hip hop']",Rap
+"['trap latino', 'reggaeton']",Latin
+"['dfw rap', 'vapor trap', 'trap', 'cali rap', 'underground hip hop', 'rap']",Rap
+"['reggaeton', 'latin', 'trap latino', 'latin hip hop', 'reggaeton flow']",Latin
+"['dance pop', 'post-teen pop', 'pop', 'talent show', 'neo mellow', 'pop rock']",Pop
+"['permanent wave', 'irish rock', 'rock']",Rock
+"['miami hip hop', 'emo rap', 'trap', 'vapor trap', 'social media pop', 'rap']",Rap
+"['rap latina', 'reggaeton', 'trap latino', 'latin', 'latin pop']",Latin
+"['latin', 'pop reggaeton', 'panamanian pop', 'reggaeton', 'pop peruano', 'latin pop', 'latin hip hop', 'trap latino']",Latin
+"['swedish electropop', 'swedish pop', 'swedish synthpop', 'electropop']",Pop
+['modern alternative pop'],Pop
+"['rap', 'trap', 'pop rap', 'hip hop', 'southern hip hop', 'underground hip hop']",Rap
+"['pop dance', 'slap house', 'edm', 'dutch house', 'tropical house', 'progressive electro house', 'electro house', 'dance pop', 'pop']",EDM
+"['pop urbaine', 'french hip hop', 'francoton', 'rap francais']",Rap
+['german hip hop'],Hip-Hop
+"['heartland rock', 'rock', 'classic rock', 'mellow gold', 'singer-songwriter', 'roots rock', 'album rock', 'soft rock', 'pop rock', 'folk rock']",Rock
+"['rock', 'heartland rock', 'classic rock', 'album rock', 'mellow gold', 'roots rock', 'folk rock', 'soft rock', 'pop rock', 'hard rock']",Rock
+"['pop rap', 'rap', 'hip hop']",Rap
+"['contemporary country', 'country road']",Country
+"['melodic rap', 'rap', 'atl hip hop', 'plugg', 'trap', 'southern hip hop', 'pop rap', 'hip hop']",Rap
+['london rap'],Rap
+"['german hip hop', 'german pop']",Hip-Hop
+"['funk rock', 'funk metal', 'permanent wave', 'alternative rock', 'rock']",Rock
+"['pop', 'uk pop', 'alt z', 'post-teen pop', 'dance pop', 'electropop', 'tropical house', 'indie poptimism', 'pop dance', 'edm']",EDM
+"['reggaeton', 'latin hip hop', 'latin', 'trap latino', 'reggaeton flow']",Latin
+"['r&b', 'pop rap', 'urban contemporary', 'dance pop', 'trap', 'pop', 'pop r&b', 'rap', 'southern hip hop', 'hip hop']",R&B & Soul
+"['pop rap', 'trap', 'trap soul', 'r&b', 'southern hip hop', 'pop', 'hip hop']",Rap
+"['disco', 'post-disco', 'funk', 'quiet storm']",Pop
+"['rap', 'atl hip hop', 'trap', 'pop rap', 'southern hip hop', 'hip hop']",Rap
+"['hard rock', 'rock', 'australian rock']",Rock
+"['novelty', 'halloween']",Novelty
+"['new wave pop', 'new romantic', 'new wave', 'soft rock', 'synthpop', 'mellow gold', 'disco', 'album rock', 'motown', 'quiet storm']",Rock
+"['rock', 'hard rock', 'album rock', 'classic rock', 'metal', 'art rock', 'soft rock']",Rock
+['halloween'],Novelty
+"['virginia hip hop', 'hip hop']",Hip-Hop
+"['trap latino', 'reggaeton', 'latin']",Latin
+"['emo rap', 'vapor trap', 'underground hip hop']",Hip-Hop
+"['metropopolis', 'modern rock', 'pop rock', 'pop', 'tropical house']",Rock
+"['vapor trap', 'chicago rap', 'drill', 'trap', 'rap', 'southern hip hop', 'underground hip hop']",Rap
+"['dance pop', 'urban contemporary', 'pop', 'r&b']",R&B & Soul
+"['emo rap', 'rap']",Rap
+"['lgbtq+ hip hop', 'emo rap']",Rap
+"['moombahton', 'bmore', 'edm', 'pop dance', 'ninja', 'house', 'tropical house', 'electro house', 'pop', 'dance pop']",Pop
+"['new wave pop', 'new romantic', 'synthpop', 'new wave', 'disco', 'europop', 'soft rock']",Pop
+['baton rouge rap'],Rap
+"['viral rap', 'alabama rap', 'vapor trap', 'trap', 'rap']",Rap
+"['neo mellow', 'pop rock', 'acoustic pop', 'pop']",Pop
+"['british soul', 'dance pop', 'urban contemporary', 'r&b', 'pop rap']",R&B & Soul
+"['adult standards', 'brill building pop', 'rockabilly', 'easy listening', 'lounge', 'vocal jazz']",Jazz
+"['rap sardegna', 'italian hip hop', 'italian underground hip hop']",Rap
+"['adult standards', 'lounge', 'easy listening', 'brill building pop', 'vocal jazz', 'mellow gold']",Jazz
+"['jazz pop', 'adult standards', 'canadian pop', 'lounge']",Jazz
+['musical advocacy'],Other
+['easy listening'],Pop
+"['adult standards', 'lounge', 'easy listening']",Pop
+"['beatlesque', 'classic rock', 'rock', 'folk rock', 'album rock', 'art rock', 'mellow gold']",Rock
+"['puerto rican pop', 'latin pop']",Latin
+"['adult standards', 'lounge', 'easy listening', 'swing', 'vocal jazz']",Jazz
+"['rap', 'pop rap', 'hip hop', 'pop']",Rap
+"['celtic rock', 'irish folk', 'celtic', 'folk punk', 'celtic punk', 'punk']",Rock
+"['sophisti-pop', 'soft rock', 'mellow gold', 'blues rock', 'classic rock', 'art rock']",Rock
+"['beatlesque', 'classic rock', 'rock', 'art rock', 'folk rock', 'album rock', 'mellow gold', 'soft rock']",Rock
+"['rockabilly', 'rock-and-roll', 'new wave pop']",Rock
+"['rap conscient', 'french hip hop', 'old school rap francais', 'pop urbaine', 'francoton']",Rap
+"['adult standards', 'vocal jazz', 'lounge', 'soul']",Jazz
+"['american folk revival', 'adult standards']",Folk
+"['rockabilly', 'rock-and-roll']",Rock
+"['ukrainian classical', 'post-romantic era']",Regional
+"['adult standards', 'lounge', 'easy listening', 'brill building pop', 'vocal jazz']",Jazz
+['a cappella'],Other
+"['torch song', 'vocal jazz', 'adult standards', 'lounge']",Jazz
+['jazz trio'],Jazz
+"['melodic rap', 'rap', 'trap']",Rap
+"['dance pop', 'post-teen pop', 'pop']",Pop
+"['glam rock', 'piano rock', 'mellow gold', 'soft rock']",Rock
+['soft rock'],Rock
+"['pop', 'dance pop', 'post-teen pop', 'hip pop']",Pop
+"['dance pop', 'europop', 'australian dance', 'electropop', 'australian pop', 'eurodance', 'pop', 'new wave pop']",Pop
+"['funk paulista', 'funk carioca']",Regional
+"['adult standards', 'brill building pop', 'deep adult standards', 'nashville sound', 'rockabilly', 'traditional country', 'honky tonk', 'rock-and-roll', 'classic country pop', 'easy listening']",Rock
+"['colombian pop', 'reggaeton', 'trap latino', 'reggaeton flow']",Latin
+"['melodic rap', 'rap', 'trap', 'southern hip hop', 'pop rap', 'hip hop']",Rap
+"['baroque pop', 'sunshine pop', 'psychedelic rock', 'folk rock', 'classic rock', 'brill building pop', 'rock']",Rock
+"['classic girl group', 'brill building pop', 'motown', 'soul']",R&B & Soul
+"['heartland rock', 'singer-songwriter', 'permanent wave', 'mellow gold', 'classic rock', 'rock']",Rock
+"['boy band', 'dance pop', 'post-teen pop', 'pop']",Pop
+"['hollywood', 'show tunes']",Hollywood
+['europop'],Pop
+"['torch song', 'adult standards', 'lounge', 'vocal jazz', 'hollywood']",Jazz
+"['dance pop', 'british soul', 'talent show', 'post-teen pop', 'europop', 'pop']",Pop
+"['dance pop', 'pop', 'post-teen pop', 'hip pop', 'urban contemporary', 'pop rock']",Pop
+"['german pop', 'bubblegum dance', 'europop', 'german rock', 'girl group', 'schlager']",Pop
+"['heartland rock', 'mellow gold', 'soft rock', 'classic rock', 'yacht rock', 'album rock', 'rock', 'folk rock', 'country rock']",Rock
+"['classic canadian rock', 'heartland rock', 'canadian pop', 'canadian singer-songwriter', 'soft rock', 'mellow gold', 'album rock', 'pop rock', 'rock']",Rock
+"['glam rock', 'hard rock', 'album rock', 'pub rock', 'blues rock', 'art rock', 'classic rock']",Rock
+"['adult standards', 'lounge', 'vocal jazz', 'easy listening']",Jazz
+['brill building pop'],Pop
+"['girl group', 'dance pop', 'hip pop', 'urban contemporary', 'r&b', 'pop']",Pop
+"['cowboy western', 'yodeling', 'traditional country', 'oklahoma country', 'adult standards']",Country
+"['glam rock', 'classic uk pop']",Rock
+"['adult standards', 'vocal jazz', 'lounge', 'easy listening']",Jazz
+['new wave pop'],Pop
+"['permanent wave', 'mellow gold', 'new wave pop', 'rock', 'heartland rock', 'art rock', 'soft rock', 'pop rock', 'new wave', 'classic rock']",Pop
+"['folk-pop', 'neo-singer-songwriter', 'pop rock', 'pop', 'modern rock']",Pop
+"['adult standards', 'soft rock', 'mellow gold', 'folk']",Rock
+"['classic uk pop', 'adult standards', 'rock-and-roll', 'brill building pop', 'bubblegum pop', 'soft rock', 'rockabilly', 'mellow gold']",Pop
+['movie tunes'],Hollywood
+"['torch song', 'deep adult standards', 'adult standards', 'vocal jazz', 'easy listening', 'lounge', 'big band', 'swing']",Jazz
+"['adult standards', 'vocal jazz', 'lounge', 'swing', 'big band']",Jazz
+['meme rap'],Other
+['novelty'],Novelty
+"['lounge', 'adult standards', 'torch song', 'vocal jazz', 'swing', 'easy listening', 'soul']",Jazz
+"['adult standards', 'brill building pop', 'rock-and-roll', 'doo-wop', 'rockabilly', 'lounge', 'vocal jazz', 'soul']",Rock
+"['hollywood', 'post-teen pop', 'show tunes', 'pop', 'dance pop']",Hollywood
+"['hollywood', 'show tunes', 'broadway']",Hollywood
+"['electro latino', 'latin', 'latin pop', 'reggaeton', 'spanish pop', 'trap latino', 'dance pop']",Latin
+"['hip hop', 'atl hip hop', 'dirty south rap', 'rap', 'southern hip hop']",Hip-Hop
+"['disco', 'soft rock', 'mellow gold']",Rock
+"['reggae fusion', 'dance pop']",Pop
+"['permanent wave', 'rock', 'punk', 'classic rock']",Rock
+"['new wave pop', 'dance rock', 'sophisti-pop', 'new romantic', 'synthpop', 'new wave', 'mellow gold', 'soft rock', 'europop', 'art rock']",Rock
+"['jazz blues', 'soul', 'memphis soul', 'southern soul', 'classic soul']",R&B & Soul
+"['beatlesque', 'british invasion', 'merseybeat', 'psychedelic rock', 'classic rock', 'rock']",Rock
+"['soft rock', 'yacht rock', 'album rock', 'mellow gold', 'classic rock', 'rock']",Rock
+"['movie tunes', 'deep talent show', 'hollywood']",Hollywood
+['show tunes'],Hollywood
+['talent show'],Hollywood
+"['pop', 'dance pop', 'post-teen pop', 'viral pop', 'australian pop', 'electropop']",Pop
+"['rap', 'conscious hip hop', 'hip hop', 'southern hip hop', 'trap', 'pop rap', 'underground hip hop', 'gangster rap']",Rap
+"['pop rock', 'irish rock']",Rock
+"['trap italiana', 'italian pop', 'italian hip hop']",Hip-Hop
+"['london rap', 'afroswing', 'uk hip hop']",Hip-Hop
+"['electronic trap', 'edm', 'trap', 'electro house', 'pop rap']",EDM
+['funk carioca'],Regional
+"['pop', 'post-teen pop', 'dance pop', 'electropop', 'pop rap']",Pop
+"['italian pop', 'milan indie', 'rap tunisien', 'italian hip hop']",Rap
+['chilean hardcore'],Other
+"['metropopolis', 'shimmer pop', 'electropop', 'neo-synthpop', 'indie poptimism', 'indie pop', 'dance pop']",Pop
+['indonesian hip hop'],Hip-Hop
+"['k-pop girl group', 'k-pop']",Pop
+"['rap', 'hip hop', 'trap', 'pop rap', 'southern hip hop', 'underground hip hop', 'gangster rap']",Pop
+"['tennessee hip hop', 'memphis hip hop', 'trap', 'vapor trap', 'southern hip hop', 'rap']",Hip-Hop
+"['conscious hip hop', 'underground hip hop', 'rap', 'hip hop']",Hip-Hop
+"['cali rap', 'vapor trap', 'trap']",Rap
+"['uk contemporary r&b', 'r&b', 'pop']",R&B & Soul
+"['underground hip hop', 'conscious hip hop', 'alternative hip hop', 'rap', 'southern hip hop', 'hip hop', 'escape room']",Hip-Hop
+['gqom'],Other
+"['sacramento hip hop', 'cali rap', 'trap']",Hip-Hop
+"['brega funk', 'funk carioca']",Regional
+"['mexican pop', 'latin pop', 'reggaeton', 'latin', 'pop', 'dance pop']",Latin
+"['latin pop', 'latin arena pop', 'latin', 'mexican pop']",Latin
+"['uk pop', 'indie cafe pop', 'indie anthem-folk', 'pop', 'modern rock']",Rock
+"['rap', 'east coast hip hop', 'hip hop', 'trap']",Hip-Hop
+"['indie poptimism', 'indie electropop', 'electropop', 'metropopolis', 'alt z', 'vapor soul']",Pop
+"['pop', 'boy band', 'post-teen pop', 'dance pop', 'electropop']",Pop
+"['afrofuturism', 'neo soul', 'escape room', 'electropop', 'atl hip hop', 'r&b', 'dance pop', 'pop', 'alternative r&b']",Hip-Hop
+"['pop venezolano', 'reggaeton', 'trap latino', 'latin pop', 'latin']",Latin
+"['canadian trap', 'rap', 'melodic rap', 'toronto rap', 'pop rap', 'trap', 'canadian hip hop', 'r&b']",Rap
+"['k-rap', 'k-pop']",Rap
+"['melodic rap', 'trap']",Rap
+"['toronto indie', 'canadian indie', 'canadian post-rock', 'ontario indie', 'stomp and holler']",Rock
+"['social media pop', 'pop', 'post-teen pop', 'dance pop']",Pop
+['israeli pop'],Pop
+"['nyc pop', 'electropop', 'alt z', 'indie pop', 'pop', 'post-teen pop', 'indie poptimism', 'dance pop']",Pop
+"['comedy rap', 'pop rap', 'rap']",Rap
+"['trap triste', 'argentine hip hop', 'trap argentino', 'trap latino']",Latin
+"['baroque pop', 'emo', 'modern rock']",Pop
+"['contemporary country', 'country', 'pop']",Country
+"['alt z', 'pop', 'electropop', 'post-teen pop', 'indie poptimism', 'dance pop', 'indie pop']",Pop
+['pop r&b'],R&B & Soul
+"['pop electronico', 'latin alternative', 'cumbia', 'latin rock']",Latin
+"['pop dance', 'pop', 'tropical house', 'electropop', 'dance pop', 'edm', 'pop edm', 'alt z', 'post-teen pop', 'electro house']",EDM
+"['uk alternative pop', 'baroque pop', 'pop']",Pop
+['sertanejo universitario'],Other
+"['funk carioca', 'funk consciente', 'funk paulista', 'funk ostentacao']",Other
+"['bachata', 'hollywood', 'latin']",Latin
+"['pop', 'electropop']",Pop
+"['trap italiana', 'italian hip hop']",Hip-Hop
+"['tropical house', 'pop dance', 'pop edm', 'edm', 'norwegian pop', 'swedish pop', 'dance pop', 'electro house', 'pop']",EDM
+"['progressive electro house', 'edm', 'pop dance']",EDM
+"['country', 'contemporary country']",Country
+"['hamburg hip hop', 'german hip hop', 'deep german hip hop']",Hip-Hop
+"['argentine hip hop', 'trap argentino', 'trap latino']",Hip-Hop
+"['italian hip hop', 'italian pop']",Hip-Hop
+"['uk pop', 'pop', 'dance pop', 'australian pop', 'tropical house', 'post-teen pop', 'pop dance']",Pop
+"['italian pop', 'italian adult pop', 'italian hip hop']",Pop
+['latin pop'],Pop
+"['sheffield indie', 'garage rock', 'permanent wave', 'modern rock', 'rock']",Rock
+"['trap italiana', 'italian hip hop', 'italian indie pop']",Hip-Hop
+"['melodic rap', 'chicago rap']",Rap
+"['eurovision', 'israeli pop']",Pop
+"['greek pop', 'eurovision', 'laiko']",Pop
+"['czech pop', 'eurovision']",Pop
+"['indie cafe pop', 'german pop', 'pop']",Pop
+"['trap', 'rap', 'detroit trap', 'detroit hip hop', 'southern hip hop', 'hip hop']",Rap
+"['atl trap', 'atl hip hop', 'rap', 'trap']",Rap
+"['latin pop', 'bolero', 'latin']",Pop
+"['batidao romantico', 'brega funk', 'forro de favela', 'brega romantico', 'funk carioca']",Latin
+"['pop dance', 'tropical house', 'edm', 'dance pop', 'electro house', 'pop edm', 'pop']",EDM
+"['virginia hip hop', 'rap', 'hip hop', 'southern hip hop', 'trap', 'pop rap', 'alternative hip hop', 'gangster rap', 'underground hip hop']",Hip-Hop
+['deep breakcore'],Other
+['forro'],Other
+"['pop', 'modern rock', 'modern alternative rock', 'rock']",Rock
+"['modern country rock', 'contemporary country', 'country road', 'country', 'country pop']",Rock
+"['rap', 'hip hop', 'underground hip hop']",Rap
+"['batidao romantico', 'pop teen brasileiro', 'brega romantico', 'brega funk', 'funk carioca']",Pop
+"['electropop', 'tropical house', 'pop', 'indie poptimism', 'edm']",EDM
+"['rap conscient', 'rap belge', 'belgian hip hop', 'pop urbaine', 'french hip hop']",Rap
+"['hip hop', 'queens hip hop', 'conscious hip hop', 'rap', 'east coast hip hop', 'gangster rap', 'hardcore hip hop']",Hip-Hop
+"['pop r&b', 'uk contemporary r&b', 'r&b', 'pop', 'post-teen pop', 'urban contemporary', 'dance pop', 'pop rap']",R&B & Soul
+"['r&b', 'urban contemporary', 'pop rap', 'pop', 'dance pop']",R&B & Soul
+"['pop urbaine', 'french hip hop']",Hip-Hop
+"['funk pop', 'pop nacional', 'funk carioca', 'pagode baiano']",Pop
+"['alt z', 'pop', 'electropop']",Pop
+"['rap', 'trap', 'pop rap', 'southern hip hop', 'cali rap', 'hip hop', 'gangster rap']",Rap
+"['trap latino', 'reggaeton', 'reggaeton flow', 'latin', 'latin hip hop']",Latin
+['dance pop'],Pop
+"['pop dance', 'edm', 'tropical house', 'electro house']",Pop
+"['rap', 'philly rap', 'trap', 'pop rap', 'southern hip hop', 'hip hop']",Rap
+"['pop', 'pop rap', 'electropop', 'pop dance']",Rap
+"['trap latino', 'reggaeton', 'reggaeton flow', 'latin hip hop', 'latin']",Latin
+['house'],Other
+"['indie cafe pop', 'pop', 'australian pop', 'pop rock', 'post-teen pop']",Pop
+"['latin talent show', 'latin pop', 'spanish pop']",Pop
+"['dutch pop', 'dutch house']",Pop
+"['trap', 'rap', 'southern hip hop', 'pop rap', 'hip hop', 'melodic rap', 'atl hip hop', 'vapor trap', 'trap soul', 'underground hip hop']",Rap
+"['electropop', 'swedish electropop', 'scandipop', 'dance pop', 'art pop', 'swedish pop', 'pop rock', 'europop', 'pop']",Pop
+"['pittsburgh rap', 'rap', 'hip hop']",Rap
+"['melodic rap', 'miami hip hop', 'vapor trap', 'underground hip hop', 'trap', 'meme rap', 'rap', 'dark trap', 'southern hip hop']",Rap
+"['melodic rap', 'rap', 'trap', 'atl hip hop', 'southern hip hop', 'pop rap', 'hip hop']",Rap
+"['vapor trap', 'underground hip hop', 'trap', 'rap']",Rap
+"['dutch trance', 'pop dance', 'edm', 'trance', 'progressive house']",EDM
+"['viral pop', 'latin pop']",Latin
+"['new romantic', 'synthpop', 'new wave', 'permanent wave', 'new wave pop', 'soft rock', 'europop']",Rock
+"['uk metalcore', 'melodic metalcore', 'metalcore', 'rock']",Rock
+"['sudanese pop', 'queens hip hop', 'rap', 'underground hip hop', 'hip hop', 'pop rap']",Hip-Hop
+"['pop rap', 'pop']",Rap
+"['teen pop', 'pop', 'boy band', 'post-teen pop', 'dance pop']",Pop
+"['pop rap', 'rap', 'hip hop', 'southern hip hop', 'detroit hip hop', 'gangster rap', 'boston hip hop', 'hardcore hip hop', 'social media pop']",Rap
+"['melodic rap', 'rap conscient', 'vapor trap', 'trap', 'rap']",Rap
+"['pop dance', 'tropical house', 'house', 'edm', 'dance pop']",EDM
+"['dutch rap pop', 'dutch hip hop', 'dutch pop']",Hip-Hop
+"['melodic rap', 'trap', 'vapor trap', 'rap', 'southern hip hop', 'pop rap']",Rap
+['italian hip hop'],Hip-Hop
+"['viral pop', 'alternative r&b']",R&B & Soul
+"['frauenrap', 'kosovan pop', 'romanian pop', 'german hip hop']",Hip-Hop
+"['sertanejo pop', 'sertanejo']",Other
+"['trap soul', 'pop rap']",Rap
+"['boy band', 'rap', 'hip hop']",Rap
+"['post-teen pop', 'candy pop', 'canadian pop', 'pop', 'dance pop']",Pop
+"['german hip hop', 'german drill', 'albanian hip hop', 'deep german hip hop']",Hip-Hop
+"['christian music', 'ccm', 'worship', 'christian alternative rock']",Christian
+['escape room'],Other
+"['melodic rap', 'rap', 'atl hip hop', 'trap', 'hip hop']",Rap
+"['tropical', 'modern salsa', 'latin', 'latin pop', 'salsa']",Latin
+"['reggaeton colombiano', 'trap latino', 'reggaeton', 'reggaeton flow', 'latin', 'latin hip hop']",Latin
+"['hamburg hip hop', 'german hip hop', 'german pop']",Hip-Hop
+['k-rap'],Rap
+"['pop', 'post-teen pop', 'r&b']",R&B & Soul
+"['post-teen pop', 'r&b', 'pop', 'dance pop']",Pop
+"['atl hip hop', 'trap', 'rap', 'southern hip hop']",Rap
+"['sertanejo pop', 'sertanejo universitario', 'sertanejo', 'funk carioca']",Regional
+"['colombian pop', 'latin pop', 'latin']",Latin
+"['german drill', 'german hip hop']",Hip-Hop
+"['industrial rock', 'industrial metal', 'wrestling', 'nu metal', 'alternative metal', 'industrial']",Rock
+"['east coast hip hop', 'hip hop', 'alternative hip hop']",Hip-Hop
+"['italian pop', 'italian adult pop']",Pop
+"['post-teen pop', 'dance pop', 'electropop', 'pop', 'canadian pop', 'indie poptimism']",Pop
+['k-pop girl group'],Pop
+"['puerto rican pop', 'latin pop', 'latin']",Latin
+['k-pop'],Pop
+"['rap conscient', 'old school rap francais', 'french hip hop']",Rap
+"['trap', 'rap', 'atl hip hop', 'southern hip hop', 'pop rap', 'underground hip hop', 'hip hop']",Rap
+"['funk bh', 'funk carioca', 'funk ostentacao']",Other
+"['miami hip hop', 'underground hip hop']",Hip-Hop
+"['big band', 'swing', 'cool jazz']",Jazz
+"['r&b', 'pop', 'alternative r&b', 'dance pop']",R&B & Soul
+['indie cafe pop'],Pop
+"['albanian hip hop', 'german hip hop']",Hip-Hop
+"['boy band', 'dance pop']",Pop
+"['jazz blues', 'vocal jazz', 'adult standards', 'swing']",Jazz
+"['pop rock', 'neo mellow', 'pop', 'dance pop', 'post-teen pop']",Rock
+"['uk pop', 'alt z', 'indie cafe pop', 'neo-singer-songwriter', 'post-teen pop', 'pop', 'indie poptimism', 'electropop', 'dance pop']",Rock
+"['dance pop', 'pop', 'post-teen pop', 'pop rap', 'electropop']",Pop
+"['canadian pop', 'dance pop']",Pop
+"['soul', 'chicago soul', 'funk', 'classic soul', 'motown', 'neo soul', 'quiet storm', 'southern soul']",R&B & Soul
+"['contemporary country', 'country pop', 'modern country rock']",Country
+"['christian pop', 'anthem worship', 'ccm']",Christian
+"['funk carioca', 'funk das antigas', 'brazilian edm']",EDM
+"['forro', 'sertanejo pop']",Pop
+"['pop urbaine', 'rap francais', 'francoton', 'french hip hop', 'azontobeats']",Pop
+"['dance pop', 'urban contemporary', 'pop']",Pop
+"['funk 150 bpm', 'funk carioca']",Pop
+"['electropop', 'pop']",Pop
+"['destroy techno', 'dark clubbing', 'electro house']",Pop
+"['pop', 'r&b', 'post-teen pop', 'dance pop', 'pop rap']",R&B & Soul
+"['italian pop', 'rome indie', 'rap napoletano', 'italian indie pop']",Pop
+"['uk alternative pop', 'indie soul', 'art pop', 'electronica']",Pop
+"['rap napoletano', 'italian hip hop']",Rap
+"['rap', 'pop rap', 'trap', 'cali rap', 'southern hip hop', 'hip hop']",Rap
+"['miami hip hop', 'underground hip hop', 'dark trap', 'vapor trap']",Hip-Hop
+"['baroque pop', 'modern rock', 'indie rock', 'indie pop']",Rock
+"['frauenrap', 'german hip hop', 'german pop']",Hip-Hop
+"['cali rap', 'trap']",Rap
+"['turkish trap pop', 'turkish hip hop']",Hip-Hop
+"['alternative pop rock', 'pop', 'pop rap']",Pop
+"['uk pop', 'pop', 'dance pop', 'post-teen pop', 'pop dance', 'tropical house', 'edm']",EDM
+"['trap brasileiro', 'reggaeton flow']",Rap
+['italian pop'],Pop
+"['permanent wave', 'rock', 'classic rock', 'soft rock', 'album rock', 'mellow gold', 'art rock', 'new wave']",Rock
+"['urban contemporary', 'neo soul', 'pop', 'r&b', 'hip pop']",R&B & Soul
+"['british indie rock', 'modern rock', 'rock', 'pop']",Rock
+"['colombian pop', 'reggaeton colombiano', 'salsa choke', 'colombian hip hop', 'latin pop', 'latin alternative', 'latin', 'tropical']",Latin
+"['trap latino', 'perreo', 'reggaeton flow', 'reggaeton', 'latin']",Latin
+"['trap latino', 'rap dominicano', 'dominican pop', 'reggaeton', 'reggaeton flow', 'latin hip hop', 'latin']",Latin
+"['irish pop', 'folk-pop', 'pop']",Pop
+"['bass trap', 'afrofuturismo brasileiro', 'pop nacional', 'electronic trap', 'funk carioca']",Rap
+"['pop urbaine', 'french hip hop', 'rap francais']",Hip-Hop
+"['melodic rap', 'chicago rap', 'trap', 'vapor trap', 'rap']",Rap
+"['r&b', 'pop']",R&B & Soul
+"['post-teen pop', 'pop', 'boy band', 'dance pop', 'pop rock']",Pop
+"['afrofuturism', 'neo soul', 'hip pop', 'alternative r&b', 'r&b', 'indie soul', 'escape room', 'urban contemporary', 'dance pop', 'pop']",R&B & Soul
+"['r&b en espanol', 'trap latino', 'reggaeton', 'latin']",Latin
+['panamanian pop'],Pop
+['chicago house'],Other
+"['lgbtq+ hip hop', 'pop rap']",Hip-Hop
+"['garage rock', 'punk blues', 'rock', 'modern blues rock', 'modern rock', 'blues rock', 'alternative rock']",Rock
+"['trap latino', 'reggaeton', 'latin', 'reggaeton flow', 'latin pop']",Latin
+"['urbano espanol', 'trap latino']",Latin
+"['swedish pop', 'europop', 'classic swedish pop', 'eurovision', 'swedish idol pop', 'melodipop']",Pop
+"['contemporary country', 'texas country', 'country']",Country
+"['alt z', 'pop', 'electropop', 'indie cafe pop', 'post-teen pop', 'social media pop', 'indie poptimism', 'dance pop']",Pop
+['trap latino'],Latin
+"['puerto rican pop', 'trap latino']",Latin
+"['german cloud rap', 'german hip hop']",Hip-Hop
+"['australian psych', 'neo-psychedelic']",Other
+"['reggaeton chileno', 'trap chileno', 'latin pop']",Pop
+"['lithuanian edm', 'lithuanian electronic', 'pop dance', 'edm']",EDM
+['r&b en espanol'],R&B & Soul
+"['neue deutsche harte', 'industrial rock', 'german metal', 'industrial', 'industrial metal', 'nu metal', 'alternative metal']",Rock
+"['trap latino', 'reggaeton flow', 'reggaeton', 'latin hip hop', 'latin']",Latin
+"['rap', 'conscious hip hop', 'trap', 'southern hip hop', 'hip hop', 'pop rap', 'gangster rap']",Hip-Hop
+"['latin', 'bachata dominicana', 'bachata', 'latin hip hop', 'trap latino', 'tropical', 'latin pop']",Latin
+"['panamanian pop', 'trap latino', 'reggaeton', 'latin']",Latin
+"['pop house', 'pop dance', 'tropical house', 'edm', 'dance pop']",EDM
+['chicago rap'],Rap
+"['dance pop', 'europop', 'pop']",Pop
+"['minnesota hip hop', 'pop', 'trap queen', 'pop rap', 'escape room', 'dance pop', 'post-teen pop']",Hip-Hop
+"['north carolina hip hop', 'rap']",Hip-Hop
+['sad rap'],Rap
+"['j-pop', 'japanese r&b']",R&B & Soul
+['contemporary country'],Country
+"['double drumming', 'rap metal', 'alternative metal', 'nu metal']",Rock
+"['christlicher rap', 'german hip hop']",Rap
+['dutch pop'],Pop
+"['eurovision', 'norwegian pop']",Pop
+"['boston hip hop', 'pop rap', 'rap', 'hip hop']",Hip-Hop
+['memphis hip hop'],Hip-Hop
+['musique guadeloupe'],Regional
+"['melodic rap', 'trap', 'rap']",Rap
+"['rap conscient', 'pop urbaine', 'french hip hop']",Rap
+['vapor pop'],Pop
+"['german hip hop', 'german drill', 'german underground rap']",Rap
+"['canadian hip hop', 'pop']",Hip-Hop
+['country rap'],Rap
+"['dance pop', 'electropop', 'pop', 'post-teen pop', 'escape room', 'indie poptimism', 'art pop', 'hyperpop', 'metropopolis', 'strut']",Pop
+"['tropical house', 'pop dance', 'edm', 'dance pop', 'pop edm', 'pop', 'electro house']",EDM
+"['canadian contemporary r&b', 'pop', 'r&b']",R&B & Soul
+"['sertanejo pop', 'sertanejo universitario', 'forro']",Regional
+"['pop', 'electropop', 'post-teen pop']",Pop
+['indonesian pop'],Pop
+"['guaracha', 'circuit', 'perreo']",Regional
+"['australian pop', 'pop']",Pop
+['kids hip hop'],Hip-Hop
+"['turkish hip hop', 'turkish trap']",Hip-Hop
+"['rap', 'southern hip hop', 'trap', 'pop rap', 'hip hop', 'dirty south rap', 'gangster rap']",Rap
+['venezuelan hip hop'],Hip-Hop
+"['rap', 'dmv rap', 'vapor trap', 'hip hop', 'trap', 'underground hip hop', 'pop rap']",Rap
+"['alternative metal', 'nu metal', 'progressive metal', 'rock', 'progressive rock', 'alternative rock', 'art rock']",Rock
+"['pop', 'indie poptimism']",Pop
+"['trap queen', 'houston rap', 'pop rap', 'pop']",Rap
+"['reggaeton colombiano', 'colombian pop']",Pop
+"['alternative r&b', 'la pop', 'r&b', 'indie soul', 'rap', 'hip hop', 'underground hip hop']",Hip-Hop
+"['trap queen', 'pop', 'pop rap', 'cali rap', 'dance pop']",Rap
+"['trap argentino', 'argentine indie']",Regional
+"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino']",Hip-Hop
+"['melodic dubstep', 'pop dance', 'tropical house', 'edm', 'pop', 'electropop']",EDM
+"['reggaeton', 'trap latino', 'latin', 'latin hip hop', 'pop reggaeton', 'latin pop', 'reggaeton flow']",Latin
+"['german hip hop', 'albanian hip hop']",Hip-Hop
+"['sertanejo universitario', 'sertanejo', 'sertanejo pop', 'funk carioca']",Regional
+"['melodic rap', 'nyc rap', 'brooklyn drill']",Rap
+['turkish hip hop'],Hip-Hop
+"['slap house', 'pop dance', 'tropical house', 'edm', 'dance pop', 'pop edm']",EDM
+"['electropop', 'pop', 'alt z', 'modern rock', 'dance pop']",Rock
+"['funk carioca', 'funk paulista']",Regional
+"['socal pop punk', 'pop punk', 'punk']",Pop
+"['german hip hop', 'deep german hip hop', 'german underground rap', 'german trap', 'hamburg hip hop']",Hip-Hop
+"['hamburg hip hop', 'deep german hip hop', 'german hip hop']",Hip-Hop
+"['cancion melodica', 'bolero', 'latin pop']",Latin
+['cali rap'],Rap
+"['turkish trap', 'basshall']",Regional
+"['francoton', 'pop urbaine', 'rap francais', 'french hip hop']",Hip-Hop
+"['italian hip hop', 'trap italiana']",Hip-Hop
+"['baton rouge rap', 'trap']",Rap
+"['pop argentino', 'latin pop']",Pop
+"['dance pop', 'pop rap', 'pop']",Pop
+"['trap', 'rap', 'pop rap']",Pop
+"['bedroom pop', 'pop']",Pop
+"['flamenco urbano', 'urbano espanol']",Latin
+"['rhode island rap', 'pop rap']",Rap
+"['rap napoletano', 'italian hip hop', 'italian pop', 'italian underground hip hop']",Rap
+"['german hip hop', 'swedish hip hop']",Hip-Hop
+"['funk pop', 'pop nacional', 'funk carioca']",Pop
+"['chill r&b', 'pop']",R&B & Soul
+"['trap italiana', 'italian hip hop', 'italian pop']",Pop
+"['pop', 'dance pop']",Pop
+"['german hip hop', 'german underground rap', 'turkish trap pop', 'german trap']",Hip-Hop
+"['uk dance', 'house', 'pop dance', 'tropical house', 'dance pop']",Pop
+"['indie cafe pop', 'pop', 'canadian contemporary r&b', 'alt z', 'post-teen pop']",Pop
+['uk hip hop'],Hip-Hop
+"['r&b', 'pop', 'alternative r&b', 'urban contemporary', 'pop rap', 'dance pop']",R&B & Soul
+"['melodic rap', 'pop rap', 'alternative r&b']",Rap
+"['indie pop', 'pop']",Pop
+"['rap', 'trap']",Rap
+"['melodic rap', 'slap house', 'rap', 'pop rap']",Rap
+"['country dawn', 'contemporary country', 'texas country', 'pop']",Country
+"['trap', 'rap']",Rap
+"['bedroom pop', 'pop', 'alt z', 'post-teen pop', 'indie pop', 'electropop']",Pop
+"['sertanejo universitario', 'sertanejo']",Regional
+"['axe', 'pagode', 'samba', 'samba reggae', 'sertanejo']",Regional
+"['nu-cumbia', 'gruperas inmortales', 'tropical', 'regional mexican']",Regional
+"['viral rap', 'meme rap', 'sad rap', 'vapor trap']",Rap
+"['reggaeton', 'latin hip hop', 'latin', 'trap latino']",Latin
+"['pop urbaine', 'french hip hop', 'rap francais', 'francoton']",Hip-Hop
+"['bedroom soul', 'pop']",R&B & Soul
+['art pop'],Pop
+"['kentucky hip hop', 'rap', 'deep underground hip hop', 'pop rap']",Hip-Hop
+['brooklyn drill'],Regional
+"['permanent wave', 'pop punk', 'punk']",Pop
+"['italian indie pop', 'italian adult pop']",Pop
+"['bergamo indie', 'milan indie', 'italian pop', 'italian indie pop']",Pop
+['atl hip hop'],Hip-Hop
+"['pop', 'alt z', 'electropop', 'post-teen pop', 'indie pop']",Pop
+"['birmingham metal', 'rock', 'hard rock', 'metal', 'album rock']",Rock
+"['trap', 'atl hip hop', 'rap', 'melodic rap', 'pop r&b', 'pop rap', 'southern hip hop', 'r&b', 'hip hop']",Hip-Hop
+['funk 150 bpm'],Other
+"['dmv rap', 'r&b', 'rap', 'pop']",R&B & Soul
+"['chicago rap', 'chicago drill', 'drill', 'trap', 'rap', 'southern hip hop']",Rap
+"['nz pop', 'pop', 'alt z']",Pop
+"['ranchera', 'mariachi', 'nuevo regional mexicano', 'regional mexican']",Regional
+['indie rockism'],Rock
+['viral rap'],Rap
+"['nashville sound', 'classic country pop', 'soft rock', 'mellow gold', 'country', 'adult standards']",Country
+"['classic country pop', 'country dawn', 'country']",Country
+"['german dance', 'pop dance', 'tropical house', 'edm', 'dance pop', 'pop edm']",EDM
+['modern indie pop'],Pop
+"['pop nacional', 'funk carioca']",Pop
+"['soul', 'motown', 'funk', 'quiet storm']",R&B & Soul
+"['reggaeton colombiano', 'colombian pop', 'trap latino', 'reggaeton', 'pop reggaeton', 'reggaeton flow', 'latin']",Latin
+['florida rap'],Rap
+"['pop dance', 'edm', 'pop edm', 'tropical house', 'progressive electro house', 'electro house']",EDM
+"['permanent wave', 'garage rock', 'modern rock', 'rock', 'alternative rock']",Rock
+"['modern blues', 'soul']",R&B & Soul
+"['ohio hip hop', 'rap', 'hip hop', 'pop rap']",Hip-Hop
+"['uk pop', 'indie cafe pop', 'pop', 'australian pop', 'post-teen pop', 'alt z', 'dance pop']",Pop
+"['british invasion', 'classic rock', 'rock']",Rock
+"['banda', 'norteno', 'regional mexican', 'corrido']",Latin
+['melodic rap'],Rap
+"['german hip hop', 'deep german hip hop']",Hip-Hop
+"['drill', 'chicago drill', 'chicago rap', 'trap', 'rap', 'hip hop']",Rap
+"['nyc rap', 'brooklyn drill']",Rap
+"['alt z', 'indie cafe pop', 'pop', 'post-teen pop', 'electropop', 'indie poptimism', 'uk pop', 'pop rock', 'viral pop', 'acoustic pop']",Pop
+"['afroswing', 'social media pop']",Pop
+"['pop', 'alt z', 'canadian pop', 'post-teen pop', 'indie cafe pop', 'electropop', 'dance pop']",Pop
+"['german drill', 'german alternative rap', 'german hip hop', 'german trap']",Hip-Hop
+"['social media pop', 'modern rock', 'sad rap', 'emo rap', 'pop rap', 'pop punk', 'alt z', 'melodic rap', 'pop', 'rock']",Rock
+"['alt z', 'indie cafe pop', 'pop', 'social media pop', 'post-teen pop', 'electropop']",Pop
+"['german hip hop', 'hamburg hip hop', 'german trap', 'german underground rap']",Hip-Hop
+"['soul', 'funk', 'motown', 'quiet storm']",R&B & Soul
+"['rap', 'pop rap', 'hip hop', 'gangster rap', 'southern hip hop', 'trap']",Rap
+"['political hip hop', 'conscious hip hop', 'atl hip hop', 'southern hip hop', 'alternative hip hop', 'escape room', 'dirty south rap']",Hip-Hop
+"['g funk', 'west coast rap', 'gangster rap', 'hip hop', 'rap']",Rap
+"['pop rap', 'rap', 'atl hip hop', 'southern hip hop', 'hip hop', 'dirty south rap', 'trap']",Rap
+"['conscious hip hop', 'chicago rap', 'underground hip hop', 'rap', 'pop rap', 'hip hop']",Hip-Hop
+"['trap chileno', 'trap latino']",Latin
+"['industrial hip hop', 'political hip hop']",Hip-Hop
+"['indie liguria', 'italian hip hop', 'trap italiana']",Hip-Hop
+"['rap francais', 'pop urbaine', 'french hip hop', 'francoton']",Hip-Hop
+"['rock en espanol', 'latin rock', 'latin alternative', 'spanish pop', 'spanish rock', 'latin pop', 'latin']",Rock
+"['melodic rap', 'pop rap', 'trap', 'cali rap', 'rap']",Rap
+['australian hip hop'],Hip-Hop
+"['scandipop', 'swedish pop']",Pop
+['jawaiian'],Pop
+['nz pop'],Pop
+"['chill r&b', 'indie r&b', 'alternative r&b', 'pop']",R&B & Soul
+"['indie pop', 'modern rock', 'pop', 'rock']",Rock
+"['dutch pop', 'dutch rap pop']",Rap
+"['indie r&b', 'alternative r&b', 'indie hip hop', 'modern alternative pop', 'pop', 'bedroom pop', 'modern indie pop', 'pop rap']",R&B & Soul
+"['funk carioca', 'funk pop']",Pop
+"['basshall', 'francoton']",Hip-Hop
+"['german dance', 'slap house', 'pop dance', 'tropical house', 'dance pop']",Pop
+"['italian pop', 'italian reggae', 'italian adult pop']",Pop
+"['melodic rap', 'pop rap']",Rap
+"['afrofuturism', 'electropop', 'pop', 'dance pop', 'post-teen pop', 'pop rap']",Rap
+"['dominican pop', 'pop reggaeton', 'urbano espanol']",Pop
+"['german hip hop', 'german underground rap', 'german pop']",Hip-Hop
+['social media pop'],Pop
+"['pop', 'alt z', 'post-teen pop', 'electropop', 'dance pop']",Pop
+"['uk dance', 'pop dance', 'tropical house', 'dance pop', 'edm']",EDM
+"['mexican pop', 'latin viral pop', 'latin pop', 'latin', 'pop']",Pop
+"['dembow', 'rap dominicano', 'trap latino', 'reggaeton', 'latin']",Latin
+"['post-teen pop', 'talent show', 'boy band', 'pop']",Pop
+"['modern rock', 'modern alternative rock', 'pop', 'electropop']",Rock
+"['rap napoletano', 'italian pop', 'pop virale italiano', 'italian hip hop']",Pop
+"['perreo', 'latin hip hop', 'reggaeton flow', 'reggaeton']",Hip-Hop
+"['forro', 'sertanejo pop', 'sertanejo', 'sertanejo universitario']",Regional
+"['gauze pop', 'shiver pop', 'indietronica']",Pop
+"['pop dance', 'tropical house', 'edm', 'pop edm']",EDM
+"['korean mask singer', 'k-pop']",Pop
+"['trap latino', 'reggaeton flow', 'reggaeton', 'latin']",Latin
+"['indie cafe pop', 'pop rock', 'modern rock', 'pop', 'indie poptimism']",Rock
+"['shimmer pop', 'modern rock', 'pop', 'modern alternative rock']",Rock
+"['pop venezolano', 'trap latino', 'cubaton', 'dominican pop', 'reggaeton', 'reggaeton flow']",Pop
+"['rap marseille', 'pop urbaine', 'rap francais', 'french hip hop']",Hip-Hop
+"['reggaeton mexicano', 'latin viral pop']",Pop
+"['pop nacional', 'funk carioca', 'nova mpb', 'post-teen pop', 'pop']",Pop
+"['alt z', 'pop', 'post-teen pop', 'talent show', 'electropop', 'indie poptimism', 'indie cafe pop', 'dance pop', 'pop rap', 'modern rock']",Pop
+"['uk dance', 'house', 'pop']",Pop
+"['ritmo kombina', 'basshall', 'dutch rap pop', 'dutch hip hop', 'dutch pop']",Hip-Hop
+"['latin pop', 'latin', 'pop']",Pop
+"['modern indie pop', 'alt z', 'social media pop']",Pop
+['south african house'],Other
+"['piseiro', 'forro']",Other
+"['funk 150 bpm', 'trap funk', 'funk carioca']",Other
+"['atl trap', 'memphis hip hop', 'trap', 'southern hip hop', 'rap']",Hip-Hop
+"['pop r&b', 'r&b']",R&B & Soul
+"['r&b brasileiro', 'rap cearense', 'trap brasileiro']",Rap
+"['swedish dancehall', 'ghanaian hip hop', 'afro dancehall', 'nigerian pop', 'afropop']",Hip-Hop
+['drill francais'],Regional
+"['edm', 'pop dance', 'electro house', 'pop edm', 'tropical house', 'big room', 'dance pop', 'progressive electro house', 'progressive house', 'house']",EDM
+['bedroom pop'],Pop
+"['escape room', 'alt z', 'electropop', 'pop']",Pop
+"['contemporary country', 'country road', 'country', 'australian country', 'australian pop']",Country
+"['german reggae', 'reggae fusion', 'cologne hip hop', 'german hip hop']",Hip-Hop
+"['batidao romantico', 'sertanejo pop', 'funk carioca']",Pop
+"['pagode novo', 'pagode', 'sertanejo pop', 'funk carioca']",Pop
+"['bedroom pop', 'indie pop', 'pop']",Pop
+"['rock', 'hard rock', 'album rock', 'classic rock', 'metal']",Rock
+"['pop urbaine', 'rap francais', 'french hip hop']",Hip-Hop
+"['turkish trap', 'turkish hip hop']",Hip-Hop
+"['south carolina hip hop', 'dance pop', 'atl hip hop', 'urban contemporary', 'pop', 'r&b']",Hip-Hop
+['indie r&b'],R&B & Soul
+"['dance pop', 'canadian latin', 'canadian pop', 'pop', 'pop rap']",Pop
+"['viral rap', 'dream smp']",Rap
+['slap house'],EDM
+"['london rap', 'afroswing', 'uk alternative hip hop', 'uk hip hop']",Hip-Hop
+['nyc rap'],Rap
+"['hip hop', 'pop rap', 'rap', 'east coast hip hop', 'hardcore hip hop', 'hip pop']",Hip-Hop
+"['modern alternative rock', 'modern rock', 'rock']",Rock
+"['rap metal', 'alternative metal', 'nu metal']",Rock
+"['dance pop', 'miami hip hop', 'pop', 'post-teen pop', 'urban contemporary']",Pop
+['cumbia pop'],Pop
+"['la indie', 'indie pop', 'alt z', 'pop']",Pop
+['reggaeton'],Regional
+"['musica jibara', 'puerto rican folk']",Folk
+"['escape room', 'art pop', 'electropop', 'alt z', 'dance pop', 'indie pop', 'pop', 'finnish pop', 'hyperpop', 'indie poptimism']",Pop
+['russelater'],EDM
+"['forro', 'piseiro', 'forro de favela', 'funk carioca', 'sertanejo pop']",Pop
+"['dream smp', 'social media pop']",Pop
+"['ottawa rap', 'toronto rap']",Rap
+"['soul', 'soul blues', 'memphis soul', 'southern soul', 'classic soul', 'funk']",R&B & Soul
+"['uk pop', 'talent show', 'pop', 'indie cafe pop', 'dance pop', 'tropical house', 'post-teen pop']",Pop
+"['indie cafe pop', 'uk pop', 'pop', 'neo mellow', 'viral pop', 'pop rock', 'post-teen pop']",Pop
+"['schlager', 'classic schlager', 'partyschlager', 'german pop']",Pop
+"['harlem renaissance', 'adult standards', 'new orleans jazz', 'vocal jazz', 'dixieland', 'swing', 'jazz trumpet', 'soul']",Jazz
+"['jazz pop', 'contemporary vocal jazz', 'neo mellow', 'vocal jazz', 'adult standards']",Jazz
+"['forro', 'sertanejo pop', 'batidao romantico', 'funk carioca', 'piseiro', 'sertanejo', 'sertanejo universitario']",Regional
+"['vancouver indie', 'indie pop']",Pop
+"['grunge', 'permanent wave', 'alternative rock', 'rock']",Rock
+"['europop', 'swedish pop']",Pop
+"['disco house', 'house', 'deep house', 'tropical house']",EDM
+['sertanejo pop'],Pop
+['forro de favela'],Regional
+"['sertanejo pop', 'funk carioca']",Pop
+"['trap latino', 'reggaeton flow', 'reggaeton']",Latin
+"['alt z', 'modern indie pop', 'social media pop', 'indie cafe pop', 'pop']",Pop
+"['social media pop', 'post-teen pop', 'pop', 'alt z']",Pop
+"['tekk', 'german alternative rap', 'german trap', 'german hip hop']",Hip-Hop
+['trap queen'],Rap
+"['indie pop', 'alt z', 'emo rap']",Pop
+"['funk ostentacao', 'brazilian hip hop']",Hip-Hop
+"['latin pop', 'latin', 'latin arena pop', 'mexican pop', 'post-teen pop']",Latin
+['piseiro'],Regional
+"['german dance', 'german trance', 'german techno', 'trance']",EDM
+['thai folk'],Folk
+"['german pop', 'kleine hoerspiel', 'german rock', 'shanty']",Pop
+"['pop', 'r&b']",R&B & Soul
+"['dembow', 'rap dominicano', 'dominican pop', 'trap latino']",Rap
+"['brega funk', 'forro', 'funk carioca']",EDM
+"['colombian pop', 'pop']",Pop
+"['indie cafe pop', 'alt z', 'pop', 'post-teen pop']",Pop
+['weirdcore'],Novelty
+"['filter house', 'electro']",EDM
+"['tennessee hip hop', 'memphis hip hop', 'trap', 'southern hip hop', 'rap']",Hip-Hop
+"['nyc rap', 'trap', 'rap']",Rap
+['new york drill'],Hip-Hop
+"['electronic trap', 'edm']",EDM
+"['italian pop', 'italian pop rock', 'italian adult pop', 'italian indie pop']",Pop
+"['pop rap', 'dance pop']",Pop
+"['trap triste', 'trap argentino']",Rap
+"['german pop', 'german hip hop']",Hip-Hop
+"['indie rock italiano', 'italian pop']",Pop
+"['r&b italiano', 'italian pop', 'trap italiana']",R&B & Soul
+"['indie siciliano', 'italian alternative', 'italian indie pop']",Pop
+"['k-pop', 'k-pop girl group', 'korean pop']",Pop
+"['electropop', 'indie poptimism', 'indie cafe pop', 'pop', 'indie electropop', 'alt z', 'chill pop', 'chill r&b', 'indie pop', 'hopebeat']",Pop
+"['norwegian pop', 'art pop']",Pop
+"['spanish pop rock', 'spanish pop', 'latin arena pop', 'pop flamenco', 'latin pop']",Pop
+"['chicago indie', 'indie pop', 'bubblegrunge', 'pop']",Pop
+"['east coast hip hop', 'gangster rap', 'hip hop', 'rap', 'hardcore hip hop', 'pop rap']",Hip-Hop
+"['uk hip hop', 'uk drill', 'afroswing', 'uk alternative hip hop']",Hip-Hop
+"['uk pop', 'alt z', 'indie cafe pop']",Pop
+"['rap', 'trap', 'hip hop']",Rap
+"['rave funk', 'funk paulista', 'funk carioca']",Other
+"['forro de favela', 'sertanejo pop', 'funk carioca']",Other
+"['uk dance', 'house', 'pop dance']",Pop
+"['funk ostentacao', 'funk carioca']",Other
+"['mexican hip hop', 'rap conciencia']",Hip-Hop
+"['pop urbaine', 'rap francais', 'french hip hop', 'francoton']",Hip-Hop
+['k-pop boy group'],Pop
+"['surf punk', 'indie surf', 'vegas indie', 'dreamo']",Other
+"['baton rouge rap', 'trap', 'southern hip hop', 'rap']",Hip-Hop
+"['rap', 'trap', 'hip hop', 'underground hip hop']",Rap
+"['edm', 'pop dance', 'electro house', 'progressive electro house', 'big room', 'dutch house', 'tropical house', 'dance pop']",EDM
+"['uk pop', 'modern rock']",Rock
+"['pop', 'dance pop', 'pop rap', 'trap queen', 'escape room', 'post-teen pop', 'r&b', 'alternative r&b', 'electropop', 'alt z']",R&B & Soul
+"['funk paulista', 'funk carioca', 'funk ostentacao']",Other
+"['reggaeton', 'trap latino', 'latin', 'latin hip hop', 'reggaeton flow', 'perreo', 'reggaeton colombiano', 'latin pop', 'musica popular colombiana']",Latin
+['dream smp'],EDM
+"['italian pop', 'italian hip hop', 'pop virale italiano', 'italian adult pop', 'rap napoletano', 'rome indie']",Pop
+"['r&b', 'pop', 'pop r&b', 'pop rap', 'alternative r&b', 'dance pop', 'urban contemporary', 'chill r&b', 'rap', 'trap soul']",R&B & Soul
+"['francoton', 'pop urbaine', 'french hip hop']",Hip-Hop
+"['melanesian pop', 'pacific islands pop', 'png pop']",Pop
+"['forro', 'sertanejo pop', 'batidao romantico', 'funk carioca']",Pop
+"['hip pop', 'r&b', 'urban contemporary', 'neo soul', 'pop r&b', 'dance pop', 'pop rap', 'hip hop']",Hip-Hop
+"['urbano espanol', 'spanish pop']",Pop
+"['funk bh', 'funk carioca']",Other
+"['trap argentino', 'rkt', 'argentine hip hop', 'cumbia pop', 'rap underground argentino']",Hip-Hop
+"['eau claire indie', 'folktronica']",Folk
+"['italian pop', 'italian hip hop']",Hip-Hop
+"['viral rap', 'plugg', 'vapor trap']",Rap
+['comic'],Novelty
+['aussietronica'],EDM
+"['country road', 'modern country rock', 'contemporary country', 'country']",Country
+"['swamp rock', 'classic rock', 'southern rock', 'rock', 'album rock', 'roots rock', 'country rock']",Rock
+['pop soul'],R&B & Soul
+"['alt z', 'pop', 'electropop', 'indie pop', 'indie poptimism', 'social media pop', 'dream smp', 'modern indie pop']",Pop
+"['nyc pop', 'chill r&b']",R&B & Soul
+"['trap queen', 'rap latina', 'escape room', 'r&b']",R&B & Soul
+['trap argentino'],Rap
+"['mellow gold', 'soft rock', 'singer-songwriter', 'yacht rock', 'adult standards', 'folk rock', 'folk', 'brill building pop']",Rock
+"['garage rock', 'detroit rock', 'rock', 'permanent wave', 'punk blues', 'alternative rock', 'modern rock', 'modern blues rock', 'blues rock']",Rock
+"['britpop', 'football', 'madchester', 'modern rock', 'boy band', 'dance rock', 'europop', 'pop rock']",Pop
