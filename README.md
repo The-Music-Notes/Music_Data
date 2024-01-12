@@ -22,12 +22,15 @@ A data file of all Spotify music streams from 2017 - 2022 (data.csv) was downloa
     * Columns for Month and Year were added to make calculations easier.
     * The data was saved to a new csv called "Music_Data.csv".
 
-In the Jupyter Notebook file genre_category.ipynb, the data is analyzed for total number of streams as well as by genre by year.
+All cleanup Jupyter Notebooks as well as analysis files, can be found in folder Files_Cleanup.
 
-In the Jupyter Notebook file CW_Music_Data_starter.ipynb, the data is analyzed for ?
+In the Jupyter Notebook file genre_analysis.ipynb, the data is analyzed for total number of streams as well as by genre by year.
+
+In the Jupyter Notebook file artist_analysis.ipynb, the data is analyzed for streaming data broken down by artist.
 
 Finally, an API call to Spotify allowed us to gather more information regarding the attributes (as defined by Spotify) of the music that was streamed: 
 "Popularity", "acousticness", "danceability", "duration_ms", "energy", "instrumentalness", "key", "liveness", "loudness", "mode", "speechiness", "tempo", "time_signature", "valence"
+this data can be found in the Jupyter Notebook file spotify_analysis.ipynd.
 
 **Visualizations** 
 
